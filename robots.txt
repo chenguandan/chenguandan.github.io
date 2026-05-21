@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://chenguandan.github.io/sitemap.xml
 Sitemap: https://chenguandan.github.io/blog/sitemap.xml
